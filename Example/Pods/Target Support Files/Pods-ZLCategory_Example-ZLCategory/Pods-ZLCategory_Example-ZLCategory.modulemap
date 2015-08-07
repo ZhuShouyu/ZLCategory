@@ -1,0 +1,6 @@
+framework module ZLCategory {
+  umbrella header "Pods-ZLCategory_Example-ZLCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,14 @@
+PODS:
+  - ZLCategory (0.1.0)
+
+DEPENDENCIES:
+  - ZLCategory (from `../`)
+
+EXTERNAL SOURCES:
+  ZLCategory:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZLCategory: 02af1a6301496c88378c2399ec5c495deed306cc
+
+COCOAPODS: 0.37.2
